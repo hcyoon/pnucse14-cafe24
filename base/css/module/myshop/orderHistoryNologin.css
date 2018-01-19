@@ -1,0 +1,12 @@
+.mid-0.xans-myshop-orderhistorynologin { position:relative; border:1px solid #d7d5d5; padding:30px 0; text-align:center; }
+.mid-0.xans-myshop-orderhistorynologin .memberArea { width:355px; margin:30px auto; text-align:left; }
+.mid-0.xans-myshop-orderhistorynologin dl.desc { overflow:hidden; width:100%; }
+.mid-0.xans-myshop-orderhistorynologin dl.desc dt,
+.mid-0.xans-myshop-orderhistorynologin dl.desc dd { float:left; margin:0 0 5px; }
+.mid-0.xans-myshop-orderhistorynologin dl.desc dt { width:38%; line-height:22px; }
+.mid-0.xans-myshop-orderhistorynologin dl.desc dd { width:62%; }
+.mid-0.xans-myshop-orderhistorynologin dl.desc dt .icoDot { display:inline-block; width:5px; height:11px; background:url('//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_tip_title.gif') no-repeat 0 center; }
+.mid-0.xans-myshop-orderhistorynologin #order_name,
+.mid-0.xans-myshop-orderhistorynologin #order_password { width:208px; }
+.mid-0.xans-myshop-orderhistorynologin #order_id1,
+.mid-0.xans-myshop-orderhistorynologin #order_id2 { width:95px; }

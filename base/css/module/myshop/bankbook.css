@@ -1,0 +1,11 @@
+.mid-0.xans-myshop-bankbook dl.desc { overflow:hidden; display:inline-block; width:48%; line-height:1.6; }
+.mid-0.xans-myshop-bankbook dl.desc dt, .mid-0.xans-myshop-bankbook dl.desc dd { float:left; margin:0 0 5px; }
+.mid-0.xans-myshop-bankbook dl.desc dt { width:150px; }
+.mid-0.xans-myshop-bankbook dl.desc dd { width:200px; }
+.mid-0.xans-myshop-bankbook dl.desc dt span.icoDot { display:inline-block; margin-top:-2px; width:5px; height:12px; vertical-align:middle; background:url('//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_tip_title.gif') 0 50% no-repeat; }
+
+.mid-0.xans-myshop-asyncbankbook dl.desc { overflow:hidden; display:inline-block; width:48%; line-height:1.6; }
+.mid-0.xans-myshop-asyncbankbook dl.desc dt, .mid-0.xans-myshop-bankbook dl.desc dd { float:left; margin:0 0 5px; }
+.mid-0.xans-myshop-asyncbankbook dl.desc dt { width:150px; }
+.mid-0.xans-myshop-asyncbankbook dl.desc dd { width:210px; }
+.mid-0.xans-myshop-asyncbankbook dl.desc dt span.icoDot { display:inline-block; margin-top:-2px; width:5px; height:12px; vertical-align:middle; background:url('//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_tip_title.gif') 0 50% no-repeat; }

@@ -1,0 +1,18 @@
+/* 게시판 전체 공통 */
+.mid-0 .xans-board-title p.imgArea { margin:0 0 20px; }
+.mid-0 .xans-board-listpackage .boardSort { float:left; margin:0 0 10px; }
+
+/* 갤러리형 탭메뉴 */
+.mid-0 ul.xans-board-listheader { text-align:right; margin:0 0 10px; }
+.mid-0 ul.xans-board-listheader li { display:inline; }
+
+/* 목록 */
+.mid-0.xans-board-listpackage table { clear:both; }
+
+/* 상품게시판 - 상품정보 */
+.mid-0.xans-board-listpackage table td .thumb img { display:inline-block; width:46px; }
+.mid-0.xans-board-listpackage table td .thumb span { display:inline-block; width:65px; padding:0 0 0 8px; }
+
+/* 상품후기 아코디언형 */
+.mid-0 .xans-board-notice #content_view td { padding:9px 10px 20px; text-align:left; background:#f6f7f9; }
+.mid-0 .xans-board-list #content_view td { padding:9px 10px 20px; text-align:left; white-space:pre-wrap; background:#f6f7f9; }

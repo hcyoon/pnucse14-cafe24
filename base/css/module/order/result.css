@@ -1,0 +1,32 @@
+/* 주문완료 */
+.mid-0.xans-order-result .orderInfo { width:380px; min-height:110px; margin:45px auto 0; padding:0 0 0 130px; background:url("//img.echosting.cafe24.com/skin/base_ko_KR/order/bg_result.png") no-repeat 0 6px; }
+.mid-0.xans-order-result .orderInfo span a { text-decoration:underline; }
+.mid-0.xans-order-result .orderInfo li strong { letter-spacing:-1px; }
+
+/* 주문 상품 정보 */
+.mid-0.xans-order-result .orderListArea table tfoot td { padding:15px 10px 17px; }
+.mid-0.xans-order-result .orderListArea table tfoot td .type { float:left; margin:6px 0 0; }
+.mid-0.xans-order-result .orderListArea table tfoot td .total { margin:0 0 0 15px; letter-spacing:-1px; }
+.mid-0.xans-order-result .orderListArea table td .product .name .ec-set-product-name { display:block; }
+.mid-0.xans-order-result .orderListArea table td .product div.option,
+.mid-0.xans-order-result .orderListArea table td .product ul.option > li { margin:9px 0 0; line-height:16px; }
+.mid-0.xans-order-result .orderListArea table td .product ul.option > li > strong { display:block; }
+.mid-0.xans-order-result .orderListArea table td .product div.option span.file a,
+.mid-0.xans-order-result .orderListArea table td .product ul.option > li > span.file a { margin:0 0 0 4px; padding:0 0 0 11px; text-decoration:underline; background:url("//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_attach.gif") no-repeat 0 2px; }
+.mid-0.xans-order-result .orderListArea div.discount strong {font-weight:normal; }
+
+.mid-0.xans-order-result .buttonArea { margin:20px 0 0; }
+
+/* Total */
+.mid-0.xans-order-result .totalArea { margin:40px 0 0; }
+.mid-0.xans-order-result .totalArea .gStrong table td { padding:20px 7px; }
+.mid-0.xans-order-result .totalArea table .more { margin:0 0 0 10px; }
+
+/* 총 주문금액 상세내역 레이어, 추가할인금액 내역보기 레이어 */
+.mid-0.xans-order-result .totalDetail.layerTheme { display:none; width:300px; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content p { text-align:right; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content ul { line-height:25px; margin:8px 0 0; border-top:1px dotted #b0b1b3; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content li { overflow:hidden; padding:0 0 0 6px; background:url("//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_info2.gif") no-repeat 0 10px; *zoom:1; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content li:first-child { margin:6px 0 0; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content li strong { float:left; }
+.mid-0.xans-order-result .totalDetail.layerTheme .content li span { float:right; }

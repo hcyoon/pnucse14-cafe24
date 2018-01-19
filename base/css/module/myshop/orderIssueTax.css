@@ -1,0 +1,14 @@
+.popup { min-width:0; max-width:700px; height:600px; }
+.mid-0.xans-myshop-orderissuetax h3 { margin:20px 0 10px 10px; }
+.mid-0.xans-myshop-orderissuetax #mall_addr_btn { overflow:hidden; width:83px; height:24px; margin:0; padding:0; font-size:0; line-height:0; vertical-align:top; background:url("//img.echosting.cafe24.com/skin/base_ko_KR/order/btn_zipcode.gif") no-repeat 0 0; }
+.mid-0.xans-myshop-orderissuetax #name, .mid-0.xans-myshop-orderissuetax #company_regno,
+.mid-0.xans-myshop-orderissuetax #company_name, .mid-0.xans-myshop-orderissuetax #president_name { width:180px; }
+.mid-0.xans-myshop-orderissuetax #company_condition, .mid-0.xans-myshop-orderissuetax #company_line { width:235px; }
+.mid-0.xans-myshop-orderissuetax #phone1 { width:60px; }
+.mid-0.xans-myshop-orderissuetax #phone2, .mid-0.xans-myshop-orderissuetax #phone3 { width:60px; margin:0 4px; }
+.mid-0.xans-myshop-orderissuetax #email1 { width:120px; margin:0 4px 0 0; }
+.mid-0.xans-myshop-orderissuetax #email2 { width:120px; margin:0 4px; }
+.mid-0.xans-myshop-orderissuetax #mall_addr_zip1, .mid-0.xans-myshop-orderissuetax #mall_addr_zip2 { width:60px; text-align:center; }
+.mid-0.xans-myshop-orderissuetax #mall_addr_zip1 { margin:0 4px 0 0; }
+.mid-0.xans-myshop-orderissuetax #mall_addr_zip2 { margin:0 0 0 4px; }
+.mid-0.xans-myshop-orderissuetax #mall_addr_addr1, .mid-0.xans-myshop-orderissuetax #mall_addr_addr2 { width:450px; margin:5px 0 0; }

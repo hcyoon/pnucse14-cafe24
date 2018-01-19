@@ -1,0 +1,3 @@
+.mid-0 .info .mileage { *zoom:1; }
+.mid-0 .info .mileage:after { content:""; display:block; clear:both; }
+.mid-0 .info .mileage li { float:left; margin:0 40px 0 0; }

@@ -1,0 +1,7 @@
+.mid-0.xans-myshop-orderhistorylistitem table td .line { text-decoration:underline; letter-spacing:-1px; }
+.mid-0.xans-myshop-orderhistorylistitem table td .product .name .ec-set-product-name { display:block; }
+.mid-0.xans-myshop-orderhistorylistitem table td .product div.option,
+.mid-0.xans-myshop-orderhistorylistitem table td .product ul.option > li { margin:9px 0 0; line-height:16px; }
+.mid-0.xans-myshop-orderhistorylistitem table td .product ul.option > li > strong { display:block; }
+.mid-0.xans-myshop-orderhistorylistitem table td .product div.option span.file a,
+.mid-0.xans-myshop-orderhistorylistitem table td .product ul.option > li > span.file a { margin:0 0 0 4px; padding:0 0 0 11px; text-decoration:underline; background:url("//img.echosting.cafe24.com/skin/base_ko_KR/common/ico_attach.gif") no-repeat 0 2px; }

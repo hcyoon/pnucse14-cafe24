@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* tag reset */
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,img { margin:0; padding:0; }
+body,code { font:0.75em Verdana,Dotum,AppleGothic,sans-serif; color:#353535; background:#fff; }
+body { min-width:1480px; }
+li { list-style:none; }
+img,fieldset { border:none; vertical-align:top; }
+
+.mid-0.xans-order-throttlewaiting .objHidden { overflow:hidden; position:absolute; width:0; height:0; white-space:nowrap; text-indent:150%; font-size:0; line-height:0; }
+.mid-0.xans-order-throttlewaiting { padding:95px 0 0; }
+.mid-0.xans-order-throttlewaiting .visual { text-align:center; }
+.mid-0.xans-order-throttlewaiting h2 { margin:25px 0 0; text-align:center; }
+.mid-0.xans-order-throttlewaiting .detail { position:relative; width:660px; margin:50px auto 0; padding:33px 70px 27px 109px; box-sizing:border-box; border:1px solid #eaeaea; }
+.mid-0.xans-order-throttlewaiting .detail:before { content:""; position:absolute; top:33px; left:69px; display:inline-block; width:24px; height:24px; border-radius:50%; background:#9da6b4 url("//img.echosting.cafe24.com/skin/base_ko_KR/order/ico_traffic_warning.png") no-repeat center; }
+.mid-0.xans-order-throttlewaiting .detail ul li { margin:0 0 4px; font-size:12px; line-height:18px; letter-spacing:-0.025em; }
+.mid-0.xans-order-throttlewaiting .detail .txtEm { color:#1b87d4; }
