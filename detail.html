@@ -22,7 +22,7 @@
 <div module="product_detail" class="mid-0">
     <!--@css(/css/module/product/detail.css)-->
     <div class="headingArea">
-        <h2 class="txtTitle14B">[{$product_code}] {$name}</h2>
+        <h2 class="txtTitle14B"> {$name}</h2>
         <span class="delivery {$delvtype_display|display}">(해외배송 가능상품)</span>
         <span class="icon">{$soldout_icon} {$stock_icon} {$recommend_icon} {$new_icon} {$product_icons} {$benefit_icons}</span>
         <!-- 공급사 바로가기버튼 영역 -->
@@ -59,13 +59,6 @@
                 </div>
             </div>
             <!-- //참고 -->
-
-            <!-- 참고 : 뉴상품관리 전용 변수가 포함되어 있습니다. 뉴상품관리 이외의 곳에서 사용하면 일부 변수가 정상동작하지 않을 수 있습니다. -->
-            <div class="buttonArea" module="product_action">
-                <button type="button" class="btnNormalM" onclick="{$action_recommend}">추천메일 보내기</button>
-                <button type="button" class="btnNormalM {$request_display|display}" onclick="{$action_request}">상품조르기</button>
-                <a href="/board/inquiry/write.html{$inquiry_param}" class="btnNormalM {$inquiry_display|display}">대량구매문의</a>
-            </div><!-- //참고 -->
 
             <div class="likeButton {$disp_likeprd_class}">
                 <button type="button">
@@ -443,7 +436,7 @@
             <div module="product_action">
                 <div class="buttonArea">
                     <span class="gLeft">
-                        <button type="button" class="  btnNormalL {$wishlist_display|display}" onclick="{$action_wishlist}">위 모든 자료들은 개인 스터디용으로 정리했습니다. 자료를 사용시 출처 및 원저작자를 표기해주세요.</button>
+                        <button type="button" class="  btnNormalL {$wishlist_display|display}" onclick="{$action_wishlist}">위 모든 자료들은 개인 스터디용으로 정리했습니다. 자료를 사용 시 출처 및 원저작자를 표기해주세요.</button>
                     </span>
                 </div>
 
