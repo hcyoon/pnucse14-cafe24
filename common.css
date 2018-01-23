@@ -420,7 +420,7 @@ p.message {
 /* 영역&공통 */
 body, code, li, .txtBase {
     font-family:Verdana,Dotum,sans-serif;
-    font-size:12px;
+    font-size:13px;
     color:#757575;
     font-weight:normal;
     font-style:normal;
@@ -428,7 +428,7 @@ body, code, li, .txtBase {
 }
 a, a:active, a:focus {
     font-family:Verdana,Dotum,sans-serif;
-    font-size:12px;
+    font-size:13px;
     color:#757575;
     font-weight:normal;
     font-style:normal;
@@ -436,7 +436,7 @@ a, a:active, a:focus {
 }
 a:hover {
     font-family:Verdana,Dotum,sans-serif;
-    font-size:12px;
+    font-size:13px;
     color:#757575;
     font-weight:normal;
     font-style:normal;
