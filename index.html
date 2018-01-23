@@ -545,3 +545,89 @@
 </div><!-- //추가분류관리(진열순서3) -->
 
 
+
+
+<div class="titleArea" style="margin-bottom: 60px;">
+    <h2 class="txtTitle16B"></h2>
+</div>
+
+<!-- 자료 Q/A & 참고 사이트 -->
+<div class="boardMain">
+    <div class="leftArea">
+        
+            <div module="board_listpackage_6" class="tableTheme mid-0">
+                <!--@css(/css/module/board/listPackage_1.css)-->
+                <h3 module="board_title_6" class="txtTitle14B">{$home_title}</h3>
+                <table border="1" summary="">
+                    <caption>자료 Q & A</caption>
+                    <colgroup>
+                        <col style="width:auto;" />
+                        <col style="width:100px;" />
+                    </colgroup>
+                    <thead module="board_listheader_6">
+                        <tr>
+                            <th scope="col">제목</th>
+                            <th scope="col">작성일</th>
+                        </tr>
+                    </thead>
+                    <tbody module="board_list_6" class="middle">
+                        <!--
+                            $count = 5
+                            $main_list = yes
+                            $subject_cut = 25
+                            $main_list_reply_view = no
+                         -->
+                        <tr>
+                            <td><a href="{$link_board_detail}">{$subject}</a> {$icon_new} {$icon_hit} {$icon_file} {$comment_count}</td>
+                            <td class="center top {$date_display|display}">{$write_date|date:Y-m-d}</td>
+                        </tr>
+                        <tr>
+                            <td><a href="{$link_board_detail}">{$subject}</a> {$icon_new} {$icon_hit} {$icon_file} {$comment_count}</td>
+                            <td class="center top {$date_display|display}">{$write_date|date:Y-m-d}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a href="/board/free/list.html?board_no=6" class="more"><img src="http://img.echosting.cafe24.com/skin/base_ko_KR/board/btn_board_more.gif" alt="더보기" /></a>
+            </div>
+
+
+    </div>
+    <div class="rightArea">
+        
+            <div module="board_listpackage_3001" class="tableTheme mid-0">
+                <!--@css(/css/module/board/listPackage_2.css)-->
+                <h3 module="board_title_3001" class="txtTitle14B">{$home_title}</h3>
+                <table border="1" summary="">
+                    <caption>참고 사이트</caption>
+                    <colgroup>
+                        <col style="width:auto;" />
+                        <col style="width:100px;" />
+                    </colgroup>
+                    <thead module="board_listheader_3001">
+                        <tr>
+                            <th scope="col">제목</th>
+                            <th scope="col">작성일</th>
+                        </tr>
+                    </thead>
+                    <tbody module="board_list_3001" class="middle">
+                        <!--
+                            $count = 5
+                            $main_list = yes
+                            $subject_cut = 25
+                            $main_list_reply_view = no
+                         -->
+                        <tr>
+                            <td><a href="{$link_board_detail}">{$subject}</a> {$icon_new} {$icon_hit} {$icon_file} {$comment_count}</td>
+                            <td class="center top {$date_display|display}">{$write_date|date:Y-m-d}</td>
+                        </tr>
+                        <tr>
+                            <td><a href="{$link_board_detail}">{$subject}</a> {$icon_new} {$icon_hit} {$icon_file} {$comment_count}</td>
+                            <td class="center top {$date_display|display}">{$write_date|date:Y-m-d}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a href="/board/free/list.html?board_no=3001" class="more"><img src="http://img.echosting.cafe24.com/skin/base_ko_KR/board/btn_board_more.gif" alt="더보기" /></a>
+            </div>
+
+    </div>
+</div>
